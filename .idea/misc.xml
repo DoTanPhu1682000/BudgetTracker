@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/bg_btn_income.xml" value="0.172" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/close_bg.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/description_selector.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_baseline_calendar.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_close.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_description.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_description_focused.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_label.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_label_focused.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_money.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_money_focused.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_others.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/ic_transport.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/icon_bg.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/label_selector.xml" value="0.2" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable-v24/money_selector.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/bg_btn_clear.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/bg_btn_filter_date.xml" value="0.172" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/bg_btn_no.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/bg_btn_started.xml" value="0.172" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/bg_btn_yes.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/bg_list.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/delete_sheet.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.172" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/ic_fastfood.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/ic_health_and_safety.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/ic_plash.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/ic_queue_music.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/drawable/ic_start.xml" value="0.181" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/font/open_sans_bold.xml" value="0.27239583333333334" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/font/open_sans_regular.xml" value="0.27239583333333334" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/font/open_sans_semibold.xml" value="0.27239583333333334" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/activity_intro.xml" value="0.264" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/bg_list.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/custom_dialog.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/dialog_delete.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/dialog_delete_all.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_add_transaction.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_all_transaction.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_chart.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_delete_successful.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_detail.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_stats.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/fragment_successful.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/item_autocomplete_layout.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/item_custom_dilog.xml" value="0.264" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/layout/item_transaction.xml" value="0.22826086956521738" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/menu/menu_nav_items.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/menu/menu_option.xml" value="0.2421875" />
+        <entry key="..\:/mock/BudgetTracker/app/src/main/res/menu/search_menu.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

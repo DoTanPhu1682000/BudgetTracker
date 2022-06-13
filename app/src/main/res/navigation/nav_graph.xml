@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.dotanphu.budgettracker.fragments.FragmentHome"
+        android:label="FragmentHome">
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentDetail"
+            app:destination="@id/fragmentDetail"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentAddTransaction"
+            app:destination="@id/fragmentAddTransaction"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentDeleteSuccessful"
+            app:destination="@id/fragmentDeleteSuccessful" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentStats"
+            app:destination="@id/fragmentStats" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentAllTransaction"
+            app:destination="@id/fragmentAllTransaction" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentDetail"
+        android:name="com.dotanphu.budgettracker.fragments.FragmentDetail"
+        android:label="FragmentDetail">
+        <action
+            android:id="@+id/action_fragmentDetail_to_fragmentHome"
+            app:destination="@id/fragmentHome" />
+        <argument
+            android:name="data"
+            app:argType="com.dotanphu.budgettracker.model.Transaction" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentAddTransaction"
+        android:name="com.dotanphu.budgettracker.fragments.FragmentAddTransaction"
+        android:label="FragmentAddTransaction">
+        <action
+            android:id="@+id/action_fragmentAddTransaction_to_fragmentHome"
+            app:destination="@id/fragmentHome" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentDeleteSuccessful"
+        android:name="com.dotanphu.budgettracker.fragments.FragmentDeleteSuccessful"
+        android:label="FragmentDeleteSuccessful">
+        <action
+            android:id="@+id/action_fragmentDeleteSuccessful_to_fragmentHome"
+            app:destination="@id/fragmentHome" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentStats"
+        android:name="com.dotanphu.budgettracker.fragments.FragmentStats"
+        android:label="FragmentStats" />
+    <fragment
+        android:id="@+id/fragmentAllTransaction"
+        android:name="com.dotanphu.budgettracker.fragments.FragmentAllTransaction"
+        android:label="FragmentAllTransaction" >
+        <action
+            android:id="@+id/action_fragmentAllTransaction_to_fragmentDetail"
+            app:destination="@id/fragmentDetail" />
+    </fragment>
+</navigation>
